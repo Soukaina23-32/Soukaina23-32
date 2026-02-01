@@ -36,5 +36,3 @@
 - **Tech:** Flask, NLP, Speech Recognition, Python
 ### 📫 How to reach me
 - 📧 Email: lgsouk0@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/soukaina-lgrini]
-- 📱 Phone: +212 XXX
